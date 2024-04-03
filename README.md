@@ -2,7 +2,7 @@
 **Group 6 Machine Learning Digit Recognizer**
 
 **Brief Description:**
-This machine learing digit regognizer loads and preprocesses data  from CSV files, splitting it into training and test sets, reshaping, and normalizing the images. It then trains and evaluates two models: a Support Vector Machine (SVM) classifier and a Convolutional Neural Network (CNN). The SVM model is trained on flattened image data and evaluated using a confusion matrix and accuracy score. The CNN model, defined with convolutional and dense layers, is trained and evaluated similarly, with additional visualization of loss and accuracy curves during training. Finally, both models are compared in terms of accuracy and performance on validation data, providing insights into their effectiveness in classifying handwritten digits.
+This machine learing digit recognizer loads and preprocesses data  from CSV files, splitting it into training and test sets, reshaping, and normalizing the images. It then trains and evaluates two models: a Support Vector Machine (SVM) classifier and a Convolutional Neural Network (CNN). The SVM model is trained on flattened image data and evaluated using a confusion matrix and accuracy score. The CNN model, defined with convolutional and dense layers, is trained and evaluated similarly, with additional visualization of loss and accuracy curves during training. Finally, both models are compared in terms of accuracy and performance on validation data, providing insights into their effectiveness in classifying handwritten digits.
 
 **Project Functionalities**
 Primary functionalities: digit recognition using Support Vector Machine (SVM) and Convolutional Neural Network (CNN) models. 
