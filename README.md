@@ -29,7 +29,7 @@ Here's a breakdown of its functionalities:
 
 **Setup Instructions**:
    - Ensure Python and necessary libraries like TensorFlow, Keras, pandas, scikit-learn, NumPy, and Matplotlib are installed.
-   - Download the provided CSV files from the MNIST dataset (train.csv and test.csv) for training and test data.
+   - Download the provided zipped folder containing the CSV files from the MNIST dataset (train.csv and test.csv) for training and test data.
    - Load the notebook in a suitable environment such as Google Colab
    - Execute the code cells sequentially to load data, train models, and evaluate their performance.
    - Adjust hyperparameters, model architectures, or data preprocessing steps as needed for further experimentation.
